@@ -37,13 +37,4 @@
 
 <br>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rhydrian&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhydrian&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
-</div>
 
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rhydrian/Rhydrian/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
